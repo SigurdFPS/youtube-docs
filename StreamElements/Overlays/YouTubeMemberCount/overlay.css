@@ -1,0 +1,23 @@
+// Copy this into the CSS tab on a Custom Widget (+ Static/Custom -> Custom Widget)
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&display=swap');
+
+#member-widget {
+    font-family: 'Outfit', sans-serif;
+    font-size: 36px;
+    color: white;
+    background: transparent;
+    padding: 20px 30px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.label {
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.count {
+    font-weight: 700;
+}
